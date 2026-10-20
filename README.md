@@ -3,6 +3,38 @@
 
 Calltime is a full-stack event requirement submission platform. Users can describe an event, select the type of professional support they need, provide category-specific details, review their information, and submit the requirement for storage.
 
+## Application Preview
+
+Calltime provides a guided, four-step workflow for submitting event
+requirements, from event basics through category-specific details and final
+review to successful submission.
+
+**Live Demo:** https://calltime-gamma.vercel.app/
+
+### Event Basics and Category Selection
+
+![Event Basics](screenshots/01-event-basics.png)
+
+### Category-Specific Details
+
+![Category Details](screenshots/02-category-details.png)
+
+### Additional Requirements
+
+![Additional Requirements](screenshots/03-additional-requirements.png)
+
+### Review Before Submission
+
+![Review Requirement](screenshots/04-review-requirement.png)
+
+### Submission Confirmation
+
+![Successful Submission](screenshots/05-submission-success.png)
+
+### My Requirements
+
+![My Requirements](screenshots/06-my-requirements.png)
+
 ## Features
 
 - Four-step event requirement wizard.
